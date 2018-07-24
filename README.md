@@ -35,13 +35,7 @@ Test
 # 문의
 기술적 문의를 제외한 요구사항에 대한 문의는 다음 이메일로 부탁드립니다. smoh@pentasecurity.com
 
-# 평가 기준.
-- 서버 환경설정 구성 능력.
-- 간단한 api서버 개발 능력.
-- 간단한 안드로이드 앱 개발 능력.
-
-
-#geth 가이드.
+geth 가이드.
 ====
 ## 설치
 https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Ubuntu
