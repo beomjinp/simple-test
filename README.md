@@ -30,8 +30,10 @@ Test
 - https://google.github.io/dagger/
 
 # 제출
-- 본 프로젝트를 clone받은 후 자신의 아이디로 branch를 생성한다.
-- 새로 만든 브랜치에서 서버 프로젝트와 앱 프로젝트를 완성한 후 pull request를 보낸다.
+- api 서버 소스와 안드로이드 앱 소스를 따로 관리한다.
+- api 서버 소스는 본 프로젝트를 clone받은 후 '아이디_srv' 로 branch를 생성한다. ex) 아이디가 smoh일 경우 브랜치 이름은 smoh_srv
+- 안드로이드 앱 소스는 본 프로젝트 clone 후 '아이디_app' 으로 branch를 생성. ex) 아이디가 smoh일 경우 smoh_app
+- 생성한 브랜치에서 작업한 후 pull request를 보낸다.
 
 # 문의
 기술적 문의를 제외한 요구사항에 대한 문의는 다음 이메일로 부탁드립니다. smoh@pentasecurity.com
