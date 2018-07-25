@@ -29,8 +29,9 @@ Test
 - https://github.com/ReactiveX/RxJava
 - https://google.github.io/dagger/
 
-# 공유방법
-- 깃헙에 서버 프로젝트와 앱 프로젝트를 만들어서 url을 공유함.
+# 제출
+- 본 프로젝트를 clone받은 후 자신의 아이디로 branch를 생성한다.
+- 새로 만든 브랜치에서 서버 프로젝트와 앱 프로젝트를 완성한 후 pull request를 보낸다.
 
 # 문의
 기술적 문의를 제외한 요구사항에 대한 문의는 다음 이메일로 부탁드립니다. smoh@pentasecurity.com
